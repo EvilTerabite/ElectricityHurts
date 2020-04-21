@@ -1,0 +1,6 @@
+name: ElectricityHurts
+version: ${project.version}
+main: me.evilterabite.electricityhurts.ElectricityHurts
+api-version: 1.13
+authors: [evilterabite]
+description: powered rails and redstone deal damage to the player.

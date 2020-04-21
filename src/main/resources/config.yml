@@ -1,0 +1,9 @@
+#Electricity Hurts Config
+
+
+# If set to true, players will be frozen and killed when the walk on a live block
+electric_stun: true
+
+#20 = 10 hearts
+damage_amount: 10
+
